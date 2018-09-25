@@ -1,5 +1,5 @@
 _repo: Jacquette-A-Sorority-Girl_57462
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Post, Charles Johnson
@@ -7,12 +7,17 @@ contributor:
     deathdate: 1956
     gutenberg_agent_id: '25880'
     url: http://www.gutenberg.org/2009/agents/25880
+covers:
+- cover_type: archival
+  image_path: 57462-h/images/cover.jpg
 creator:
   author:
     agent_name: Cody, Grace Ethelwyn
     gutenberg_agent_id: '49398'
     url: http://www.gutenberg.org/2009/agents/49398
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57462#Jacquette-A-Sorority-Girl
 gutenberg_issued: '2018-07-08'
 gutenberg_type: Text
 identifiers:
